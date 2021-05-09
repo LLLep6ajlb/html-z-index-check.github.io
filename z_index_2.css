@@ -1,0 +1,29 @@
+.red {	
+    position:fixed;
+	left:0px;
+	top:0px;
+	height:100px;
+    width: 100px;
+    background-color: red;
+	z-index:3;
+}
+
+.blue { 
+	position:fixed;
+	left:10px;
+	top:10px;
+	width: 100px;
+	height:100px;
+	background-color:blue;
+	z-index:1;
+}
+
+.green { 
+	position:fixed;
+	left:20px;
+	top:20px;
+	width: 100px;
+	height:100px;
+	background-color:green;
+	z-index:2;
+}
